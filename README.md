@@ -15,5 +15,5 @@ elif overdue>7:
     print(total)
 else:
     print("you aren't overdue")
-    # alternative root for books tgat are at 0 days overdue 
+    # alternative root for books that are at 0 days overdue 
     
