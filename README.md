@@ -1,4 +1,3 @@
-
 #A library needs a program to calculate fines for overdue books.
 overdue=int(input("how many days is your book overdue:"))
 if overdue>=1 and overdue<=7:
